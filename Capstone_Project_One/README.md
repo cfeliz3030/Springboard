@@ -1,4 +1,5 @@
 # Capstone Project 1: Predicting MLB Players Salary 
+For a quick look into my project please check out file 'Capstone 1 Presentation' and 'Capstone Project 1_Final Report'
 
 ## Background/Context
 
