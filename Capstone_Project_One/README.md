@@ -3,7 +3,7 @@ For a quick look into my project please check out files 'Capstone 1 Presentation
 
 ## Background/Context
 
-Throughout the years MLB teams have lost enormous amounts of money by overpaying for  players. There have also been many contract signings where players have been totally undervalued.
+Throughout the years MLB teams have lost enormous amounts of money by overpaying for  players. There have also been many contract signings where players have been totally undervalued. The data used in this project can be found at <http://www.thebaseballcube.com/topics/payrolls/>
 
 ## The Goal
 
