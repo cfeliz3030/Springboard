@@ -3,7 +3,7 @@ In Progress*
 
 ## Background/Context
 
-Twitter is a platform where individuals are allowed to  post their thoughts and opinions as they see fit. But for some it can do more damage than good, such as having the ability to drop a company's stock price. Earlier in May, Tesla CEO Elon Musk sent out a tweet to his followers saying, “Tesla stock price is too high imo.” After this tweet was posted, Tesla's share price dropped more than 11% within the first couple of hours. A negative tweet like that should be avoided at all cost for being detrimental to a company. The data used in this project can be found in this [Link](https://www.kaggle.com/c/tweet-sentiment-extraction)
+Twitter is a platform where individuals are allowed to  post their thoughts and opinions as they see fit. But for some it can do more damage than good, such as having the ability to drop a company's stock price. Earlier in May, Tesla CEO Elon Musk sent out a tweet to his followers saying, “Tesla stock price is too high imo.” After this tweet was posted, Tesla's share price dropped more than 11% within the first couple of hours. A negative tweet like that should be avoided at all cost for being detrimental to a company. The data used in this project can be found in this [link](https://www.kaggle.com/c/tweet-sentiment-extraction)
 
 ## The Goal
 
