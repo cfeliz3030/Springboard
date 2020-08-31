@@ -5,4 +5,4 @@ If you have any questions please feel free to message me here <https://www.linke
 
 # Note to Recruiters, Companies or Hiring Managers
 
-The relevant end to end Data Science projects to check out would the Capstone Project folders. I would recommend checking out my MLB player salary prediction project (Capstone Project 1).
+The relevant end to end Data Science projects to check out would the Capstone Project folders. I would recommend checking out my Twitter Sentiment Analysis project (Capstone Project 2).
