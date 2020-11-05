@@ -1,5 +1,5 @@
 # Capstone Project 2: Twitter Sentiment Analysis with Deep Learning 
-In Progress*
+
 
 ## Background/Context
 
